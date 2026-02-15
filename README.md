@@ -2,7 +2,7 @@
 
 **Stop drowning in code. Start navigating with AI.**
 
-CodeSailor is a VS Code extension that transforms how developers explore unfamiliar codebases. Using RAG (Retrieval-Augmented Generation) powered by AWS Bedrock, it creates an instant "map" of any project—eliminating the "Lost at Sea" effect that slows down onboarding.
+CodeSailor is a VS Code extension that transforms how developers explore unfamiliar codebases. Using RAG (Retrieval-Augmented Generation) powered by AWS Bedrock, it creates an instant "map" of any project eliminating the "Lost at Sea" effect that slows down onboarding.
 
 ---
 
